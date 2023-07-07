@@ -1,0 +1,123 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "TRICK ESTÁ FORA DA LOS GRANDES!",
+      "descricao": "13 mil visualizações",
+      "url": "https://www.youtube.com/embed/OrtLDevtels",
+      "imagem": "https://yt3.googleusercontent.com/-MOnDF8b1Kdu-N_FKR8LPp4lXdCYxxF1BP1u17VEijHZHpgFv9h643MOzbFd2UXpESmp-C0e=s176-c-k-c0x00ffffff-no-rj",
+      "id": 13
+    },
+    {
+      "titulo": "LENDAS REAGEM AO TRAILER DA NOVA CAMPEÃ NAAFIRI!",
+      "descricao": "41 mil visualizações",
+      "url": "https://www.youtube.com/embed/pojJSgNClmQ",
+      "imagem": "https://yt3.googleusercontent.com/-MOnDF8b1Kdu-N_FKR8LPp4lXdCYxxF1BP1u17VEijHZHpgFv9h643MOzbFd2UXpESmp-C0e=s176-c-k-c0x00ffffff-no-rj",
+      "id": 14
+    },
+    {
+      "titulo": "MINERVA reage ao NA ESCUTA 4ª Rodada: FURIA KIDS tem a MELHOR COMUNICAÇÃO do CBLOL!?",
+      "descricao": "58 mil visualizações",
+      "url": "https://www.youtube.com/embed/aTao7rY8OdE",
+      "imagem": "https://yt3.googleusercontent.com/-MOnDF8b1Kdu-N_FKR8LPp4lXdCYxxF1BP1u17VEijHZHpgFv9h643MOzbFd2UXpESmp-C0e=s176-c-k-c0x00ffffff-no-rj",
+      "id": 15
+    },
+    {
+      "titulo": "The JavaScript Survival Guide",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/9emXNzqCKyg",
+      "imagem": "https://i.ytimg.com/vi/9emXNzqCKyg/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYkwvUOyLfFaLZfAOL5Vl6pgRcUA",
+      "id": 16
+    },
+    {
+      "titulo": "Desafios top-top-top | Mód04 - Aula 15",
+      "descricao": "3 mil visualizações",
+      "url": "https://youtube.com/embed/tl5MarpDWzg",
+      "imagem": "https://br.freepik.com/fotos/cachorro",
+      "id": 17
+    }
+  ]
+}
